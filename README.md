@@ -1,3 +1,5 @@
+# This repo is now deprecated in favour of the more semantically accurate [PersistentProperties](https://github.com/amanssharma/PersistentProperties)
+
 # VersatileUerDefaults
 
 A property wrapper that allow objects that conform to Codable protocol to be stored in user defaults.
