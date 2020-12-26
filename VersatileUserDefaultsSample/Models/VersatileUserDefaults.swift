@@ -2,6 +2,7 @@ import Foundation
 
 /// This property wrapper provides a capability to store an instance
 /// of any type that conforms to Codable, into the standard user defaults.
+@available(*, deprecated)
 @propertyWrapper
 struct VersatileUserDefaults<T: Codable> {
     private let key: String
